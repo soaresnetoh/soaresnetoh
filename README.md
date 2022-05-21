@@ -40,6 +40,8 @@ I am a problems solver, but sometimes head devops and architecture.
 
 <br/>
 
+![Snake animation](https://github.com/soaresneoth/soaresnetoh/blob/output/github-contribution-grid-snake.svg)
+
 
 <details>
   <summary>Something interesting about me! 😄</summary>
@@ -49,7 +51,6 @@ I am a problems solver, but sometimes head devops and architecture.
   - Believe in self CI/CD (Continuous Improvements/Continuous Development) 🌱
 </details>
 
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
 
 <details>
 <p align="center">
