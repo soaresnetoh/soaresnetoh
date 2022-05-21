@@ -49,11 +49,9 @@ I am a problems solver, but sometimes head devops and architecture.
   - Believe in self CI/CD (Continuous Improvements/Continuous Development) 🌱
 </details>
 
+![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+
 <details>
-
-
-<hr>
-
 <p align="center">
   <i>📫 Reach out to me at one of the following places!</i>
 
@@ -63,10 +61,6 @@ I am a problems solver, but sometimes head devops and architecture.
     <a title="Twitter" href="https://twitter.com/soaresnetoh" alt="Twitter"><img height="40" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg"></a>&nbsp; 
   </p>  
 </p>
-
-
-
-
 
 <div>
 <a href="https://github.com/soaresnetoh">
