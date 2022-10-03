@@ -18,7 +18,7 @@ I am a problems solver, but sometimes head devops and architecture.
 <a title="Kubernetes"><img height="40" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"></a>
 <a title="Terraform"><img height="40" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg"></a>
 <a title="Docker"><img height="40" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"></a>
-<a title="ArgoCD"><img height="40" src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg"></a>
+<a title="Jenkins"><img height="40" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg"></a>
 <a title="Python"><img height="40" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></a>
 <a title="Linux"><img height="40" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"></a>
 <a title="Ansible"><img height="40" src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg"></a>
