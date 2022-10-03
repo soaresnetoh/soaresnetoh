@@ -27,8 +27,9 @@ I am a problems solver, but sometimes head devops and architecture.
 
 ### 🎖️ Certifications
 
-<a title="Microsoft Certified: Azure Fundamentals AZ-900"><img height="60" src="https://camo.githubusercontent.com/3e468f82348c369bc57f1dcaa6c779887326acdee7c78ed96270fb1c9318db7c/68747470733a2f2f646f63732e6d6963726f736f66742e636f6d2f656e2d75732f6d656469612f6c6561726e2f63657274696669636174696f6e2f6261646765732f6d6963726f736f66742d6365727469666965642d66756e64616d656e74616c732d62616467652e737667"></a>
-<a title="Oracle Cloud Infrastructure – Foundations Associate"><img height="60" src="https://camo.githubusercontent.com/6bdbf96005c94588fac1a7a674e59d32b8dc3085c10e52b4d84dfb7c1dcbb140/68747470733a2f2f696d616765732e637265646c792e636f6d2f73697a652f363830783638302f696d616765732f32376462343966332d386261652d343331342d386138342d3838343933356235363964622f35305f4f7261636c655f436c6f75645f496e6672617374727563747572652e706e67"></a>
+<a title="Oracle Cloud Infrastructure – Foundations Associate"><img height="150" src="https://camo.githubusercontent.com/6bdbf96005c94588fac1a7a674e59d32b8dc3085c10e52b4d84dfb7c1dcbb140/68747470733a2f2f696d616765732e637265646c792e636f6d2f73697a652f363830783638302f696d616765732f32376462343966332d386261652d343331342d386138342d3838343933356235363964622f35305f4f7261636c655f436c6f75645f496e6672617374727563747572652e706e67"></a>
+<a href="https://www.credly.com/badges/8e6fc0a4-9012-4507-a256-95efed909da2/public_url" target="_blank"><img src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="150" alt="AWS Certified Cloud Practitioner"/></a>
+<a href="https://www.credly.com/badges/61c45317-eb7f-4fd7-b684-0b74f85574e3/public_url" target="_blank"><img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="150" alt="AWS Certified Cloud Practitioner"/></a>
 
 
 
