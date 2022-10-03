@@ -32,13 +32,6 @@ I am a problems solver, but sometimes head devops and architecture.
 <a href="https://www.credly.com/badges/61c45317-eb7f-4fd7-b684-0b74f85574e3/public_url" target="_blank"><img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="150" alt="AWS Certified Cloud Practitioner"/></a>
 
 
-
-
-### 📕️ My Publications
-
-- no one at now
-
-
 <br/>
 
 ![Snake animation](https://github.com/soaresnetoh/soaresnetoh/blob/053817c9e0830e2cbc25ea3c8d539e2973fc6536/github-contribution-grid-snake.svg)
