@@ -6,7 +6,7 @@ I am a problems solver, but sometimes head devops and architecture.
 
 - 🏆 Devops - consultant | SRE and Architecture
 - 👨‍💻 Move 🌐 to ☁️ 
-- 📜️ More about my experiences on [LinkedIn](https://br.linkedin.com/in/zandler-oliveira)
+- 📜️ More about my experiences on [LinkedIn](https://br.linkedin.com/in/soaresnetoh)
 
 
 
