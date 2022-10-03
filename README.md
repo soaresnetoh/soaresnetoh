@@ -41,7 +41,7 @@ I am a problems solver, but sometimes head devops and architecture.
 
 <br/>
 
-![Snake animation](https://github.com/soaresneoth/soaresnetoh/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/soaresnetoh/soaresnetoh/blob/053817c9e0830e2cbc25ea3c8d539e2973fc6536/github-contribution-grid-snake.svg)
 
 
 <details>
