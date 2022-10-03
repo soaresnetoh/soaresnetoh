@@ -53,7 +53,6 @@ I am a problems solver, but sometimes head devops and architecture.
 </details>
 
 
-<details>
 <p align="center">
   <i>📫 Reach out to me at one of the following places!</i>
 
