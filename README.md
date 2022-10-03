@@ -58,8 +58,9 @@ I am a problems solver, but sometimes head devops and architecture.
 
   <p align="center">
     <a title="LinkedIn" href="https://br.linkedin.com/in/soaresnetoh" alt="Linkedin"><img height="40" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"></a>&nbsp;  
-    <a title="GitHub" href="https://github.com/soaresnetoh" alt="GitHub"><img height="40" src="https://www.vectorlogo.zone/logos/github/github-icon.svg"></a>&nbsp; 
-    <a title="Twitter" href="https://twitter.com/soaresnetoh" alt="Twitter"><img height="40" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg"></a>&nbsp; 
+    <a title="GitHub" href="https://github.com/soaresnetoh" alt="GitHub"><img height="40" src="https://www.vectorlogo.zone/logos/github/github-icon.svg"></a>&nbsp;  
+    <a title="GitLab" href="https://gitlab.com/soaresnetoh" alt="GitLab"><img height="40" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg"></a>&nbsp;  
+    <a title="Twitter" href="https://twitter.com/soaresnetoh" alt="Twitter"><img height="40" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg"></a>&nbsp;  
   </p>  
 </p>
 
