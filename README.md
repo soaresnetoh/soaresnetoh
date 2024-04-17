@@ -32,6 +32,10 @@ I am a problems solver, but sometimes head devops and architecture.
 <a href="https://www.credly.com/badges/8e6fc0a4-9012-4507-a256-95efed909da2/public_url" target="_blank"><img src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="150" alt="AWS Certified Cloud Practitioner"/></a>
 <a href="https://www.credly.com/badges/61c45317-eb7f-4fd7-b684-0b74f85574e3/public_url" target="_blank"><img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="150" alt="AWS Certified Cloud Practitioner"/></a>
 <a href="https://www.credly.com/badges/ab12997c-2f72-46e6-8e3e-02f6a6f154dc/public_url" target="_blank"><img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="150" alt="AWS Certified Solutions Architect – Associate"/></a>
+<a href="https://www.credential.net/66dd2a72-b2c7-481b-ac3d-979fa961adb9" target="_blank"><img src="https://templates.images.credential.net/16326017889885974312429936777989.png" width="150" alt="Linuxtips - Uncomplicating Terraform"/></a>
+<a href="https://www.credential.net/f4e39215-f99a-4bb4-8c03-71858aa8b7bd" target="_blank"><img src="https://templates.images.credential.net/16326014523752694182310508042877.png" width="150" alt="Linuxtips - Uncomplicating Docker"/></a>
+<a href="https://www.credential.net/520b2ffd-d62e-45f1-bec0-48f1c9173748" target="_blank"><img src="https://templates.images.credential.net/16386977287531919957565019051691.png" width="150" alt="Linuxtips - Mutirão DevOps"/></a>
+
 
 
 
