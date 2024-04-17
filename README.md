@@ -35,11 +35,7 @@ I am a problems solver, but sometimes head devops and architecture.
 <a href="https://www.credential.net/66dd2a72-b2c7-481b-ac3d-979fa961adb9" target="_blank"><img src="https://templates.images.credential.net/16326017889885974312429936777989.png" width="150" alt="Linuxtips - Uncomplicating Terraform"/></a>
 <a href="https://www.credential.net/f4e39215-f99a-4bb4-8c03-71858aa8b7bd" target="_blank"><img src="https://templates.images.credential.net/16326014523752694182310508042877.png" width="150" alt="Linuxtips - Uncomplicating Docker"/></a>
 <a href="https://www.credential.net/520b2ffd-d62e-45f1-bec0-48f1c9173748" target="_blank"><img src="https://templates.images.credential.net/16386977287531919957565019051691.png" width="150" alt="Linuxtips - Mutirão DevOps"/></a>
-
-
-
-
-
+<a href="https://badgr.com/public/assertions/81cr6QWIQ_ag0EcjUN_vWQ?identity__email=soaresnetoh@gmail.com" target="_blank"><img src="https://media.badgr.com/uploads/badges/assertion-81cr6QWIQ_ag0EcjUN_vWQ.png" width="150" alt="DevopsPro - Desafio Kubernetes"/></a>
 <br/>
 
 ![Snake animation](https://github.com/soaresnetoh/soaresnetoh/blob/053817c9e0830e2cbc25ea3c8d539e2973fc6536/github-contribution-grid-snake.svg)
