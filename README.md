@@ -6,7 +6,9 @@ I am a problems solver, but sometimes head devops and architecture.
 
 - 🏆 Devops - consultant | SRE and Architecture
 - 👨‍💻 Move 🌐 to ☁️ 
-- 📜️ More about my experiences on [LinkedIn](https://br.linkedin.com/in/soaresnetoh)
+- 📜️ More about my experiences on [![Linkedin: HernaniSoares](https://img.shields.io/badge/-soaresnetoh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/soaresnetoh/)](https://www.linkedin.com/in/soaresnetoh/)
+- [![Twitter: @soaresnetoh](https://img.shields.io/twitter/follow/soaresnetoh?style=social)](https://twitter.com/soaresnetoh)
+- [![GitHub Hernani Soares](https://img.shields.io/github/followers/soaresnetoh?label=follow&style=social)](https://github.com/soaresnetoh)
 
 
 
@@ -26,10 +28,12 @@ I am a problems solver, but sometimes head devops and architecture.
 
 
 ### 🎖️ Certifications
-
-<a title="Oracle Cloud Infrastructure – Foundations Associate"><img height="150" src="https://camo.githubusercontent.com/6bdbf96005c94588fac1a7a674e59d32b8dc3085c10e52b4d84dfb7c1dcbb140/68747470733a2f2f696d616765732e637265646c792e636f6d2f73697a652f363830783638302f696d616765732f32376462343966332d386261652d343331342d386138342d3838343933356235363964622f35305f4f7261636c655f436c6f75645f496e6672617374727563747572652e706e67"></a>
+<a title="Oracle Cloud Infrastructure – Foundations Associate"><img height="150" src="https://images.credly.com/images/27db49f3-8bae-4314-8a84-884935b569db/50_Oracle_Cloud_Infrastructure.png"></a>
 <a href="https://www.credly.com/badges/8e6fc0a4-9012-4507-a256-95efed909da2/public_url" target="_blank"><img src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="150" alt="AWS Certified Cloud Practitioner"/></a>
 <a href="https://www.credly.com/badges/61c45317-eb7f-4fd7-b684-0b74f85574e3/public_url" target="_blank"><img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="150" alt="AWS Certified Cloud Practitioner"/></a>
+<a href="https://www.credly.com/badges/ab12997c-2f72-46e6-8e3e-02f6a6f154dc/public_url" target="_blank"><img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="150" alt="AWS Certified Solutions Architect – Associate"/></a>
+
+
 
 
 <br/>
